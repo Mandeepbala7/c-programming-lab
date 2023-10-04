@@ -1,0 +1,6 @@
+//program to print hello world using next line 
+#include<stdio.h>
+void main()
+{
+    printf("helloworld\nhelloworld");
+}
