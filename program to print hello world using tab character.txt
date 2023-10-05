@@ -1,0 +1,7 @@
+// program to enter the hello world using the tab character
+#include<stdio.h>
+void main()
+{
+    printf("helloworld \t helloworld");
+}
+}
