@@ -24,6 +24,6 @@ int main()
     }
     else
     {
-        printf("%d is not anarmstrong ",number);
+        printf("%d is not an armstrong ",number);
     }
 }
